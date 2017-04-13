@@ -26,7 +26,7 @@
                    Margin="84,40,83,0"/>
             <StackPanel Orientation="Horizontal" Margin="92 130 0 0" Height="51" x:Name="panel">
                 <Button Height="50" Width="130" 
-                        Content="take" FontStyle="Italic"
+                        Content="Smile :)" FontStyle="Italic"
                         Background="Beige"
                         x:Name="button1"
                         Click="Button_Click"
@@ -38,7 +38,7 @@
                 </Button>
 
                 <Button Height="50" Width="130" 
-                        Content="take" FontStyle="Italic" Margin="-80 0 0 0"
+                        Content="Smile :)" FontStyle="Italic" Margin="-80 0 0 0"
                         Background="Beige"
                         x:Name="button2"
                         Click="Button_Click"
@@ -49,7 +49,7 @@
                 </Button>
 
                 <Button Height="50" Width="130" 
-                        Content="take" FontStyle="Italic" Margin="-80 0 0 0"
+                        Content="Smile :)" FontStyle="Italic" Margin="-80 0 0 0"
                         Background="Beige"
                         x:Name="button3"
                        Click="Button_Click"
@@ -60,7 +60,7 @@
                 </Button>
 
                 <Button Height="50" Width="130" 
-                        Content="take" FontStyle="Italic" Margin="-80 0 0 0"
+                        Content="Smile :)" FontStyle="Italic" Margin="-80 0 0 0"
                         Background="Beige"
                         x:Name="button4"
                         Click="Button_Click"
@@ -71,7 +71,7 @@
                 </Button>
 
                 <Button Height="50" Width="130" 
-                        Content="take" FontStyle="Italic" Margin="-80 0 0 0"
+                        Content="Smile :)" FontStyle="Italic" Margin="-80 0 0 0"
                         Background="Beige"
                         x:Name="button5"
                         Click="Button_Click"
@@ -82,7 +82,7 @@
                 </Button>
 
                 <Button Height="50" Width="130" 
-                        Content="take" FontStyle="Italic" Margin="-80 0 0 0"
+                        Content="Smile :)" FontStyle="Italic" Margin="-80 0 0 0"
                         Background="Beige"
                         x:Name="button6"
                         Click="Button_Click"
@@ -93,7 +93,7 @@
                 </Button>
 
                 <Button Height="50" Width="130" 
-                        Content="take" FontStyle="Italic" Margin="-80 0 0 0"
+                        Content="Smile :)" FontStyle="Italic" Margin="-80 0 0 0"
                         Background="Beige"
                         x:Name="button7"
                         Click="Button_Click"
